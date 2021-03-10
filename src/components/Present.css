@@ -1,0 +1,34 @@
+.present-main {
+    
+  display: flex;
+  margin: 2px 30px;
+}
+.present-main div{
+    margin: 10px 30px;
+    
+}
+.present-main div button{
+    margin: 0px 4px;
+    border-radius: 30px;
+    padding: 3px 15px;
+    border: none;
+    outline: none;
+}
+.b1:focus{
+    background-color: #0AC10A;
+}
+.b2:focus{
+    background-color: #D00D0D;
+}
+.stdname{
+    background-color: rgba(211, 224, 234, 0.5);
+    padding: 2px 40px;
+}
+.numbering{
+    background-color: cyan;
+    width: 30px;
+    
+    text-align: center;
+    justify-content: center;
+    border-radius: 50%;
+}

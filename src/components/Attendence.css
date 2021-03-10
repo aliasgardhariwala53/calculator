@@ -1,0 +1,62 @@
+
+.drop ul{
+  
+    margin: px;
+    padding:px;
+   
+    
+    background: #0D0D0D 75%;
+    
+
+}
+
+.drop ul li{
+    position: relative;
+    display: inline-block;
+    list-style: none;
+    
+}
+.dropmenu{
+  display: block;
+  padding: 20px 50px;
+  
+  color: aliceblue;
+  
+  text-decoration: none;
+ 
+  font-size: 20px;
+ 
+
+}
+.dropmenu:hover{
+    background-color: blue;
+}
+.drop ul ul{
+    position: absolute;
+    top: 60px;
+    display: none;
+   
+}
+.drop ul li:hover>ul{
+    display: block;
+}
+nav ul ul li{
+    width: 10px;
+    
+    display: list-item;
+    position: relative;
+
+}
+.drop ul ul ul li{
+    position: relative;
+    top: -60px;
+    
+}
+.present-comp{
+   position: relative;
+  
+   top: 200px;
+  
+}
+
+

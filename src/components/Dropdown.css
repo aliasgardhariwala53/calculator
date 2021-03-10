@@ -1,0 +1,18 @@
+.select{
+  
+   display: flex;
+   position: absolute;
+   
+   width: 900px;
+  position: absolute;
+  left: 60px;
+  top: 100px;
+  
+
+  
+}
+.select1{
+    outline: none;
+    margin:0px  10px;
+    width: 120px;
+}
